@@ -1,0 +1,43 @@
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+E:\KP\KP TERAKHIR\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+E:\KULIAH\Semester 8\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\bin\Debug\MySql.Data.dll
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+E:\KP\KP TERAKHIR\Program\Store\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb

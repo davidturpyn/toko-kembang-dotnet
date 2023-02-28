@@ -1,0 +1,180 @@
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\Store.exe.config
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\Store.exe
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\Store.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.DaftarKategoriBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.DaftarPelanggan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.Menu.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.exe
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.FormLogin.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\MySql.Data.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\bin\Debug\JualBeli_LIB.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.FormTambahkategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.FormUbahKategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.FormDeleteKategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\Store\obj\Debug\Store.FormTambahPelanggan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\Store.exe.config
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.exe
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\Store.exe
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\Store.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\MySql.Data.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\JualBeli_LIB.pdb
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarKategoriBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarPelanggan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormDeleteKategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormLogin.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahkategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahPelanggan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormUbahKategori.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarJabatan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormDeleteJabatan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahJabatan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormUbahJabatan.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormUbahBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormDeleteBarang.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarPegawai.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahPegawai.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormUbahPegawai.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormDeletePegawai.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\bin\Debug\JualBeli_LIB.dll
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahNotaJual.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormMenu.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahNotaBeli.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarSupplier.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormTambahSupplier.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormUbahSupplier.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.FormDeleteSupplier.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarNotaJual.resources
+E:\Ubaya\Semester 3\Pemrograman Basis Data\sss\Store\Store\obj\Debug\Store.DaftarNotaBeli.resources
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\Store.exe.config
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\Store.exe
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\Store.pdb
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\JualBeli_LIB.dll
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\MySql.Data.dll
+E:\KP\KP TERAKHIR\Store\Store\bin\Debug\JualBeli_LIB.pdb
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarBarang.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarJabatan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarKategoriBarang.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarNotaBeli.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarNotaJual.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarPegawai.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarPelanggan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.DaftarSupplier.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormDeleteBarang.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormDeleteJabatan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormDeleteKategori.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormDeletePegawai.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormDeleteSupplier.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormLogin.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahBarang.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahJabatan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahkategori.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahNotaBeli.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahNotaJual.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahPegawai.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahPelanggan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormTambahSupplier.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormUbahBarang.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormUbahJabatan.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormUbahKategori.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormUbahPegawai.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormUbahSupplier.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.FormMenu.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.csproj.CopyComplete
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.exe
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.pdb
+E:\KP\KP TERAKHIR\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\Store.exe.config
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\Store.exe
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\Store.pdb
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\JualBeli_LIB.dll
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\MySql.Data.dll
+E:\KULIAH\Semester 8\Store\Store\bin\Debug\JualBeli_LIB.pdb
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarBarang.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarKategoriBarang.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarNotaBeli.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarNotaJual.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarPegawai.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.DaftarSupplier.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDeleteBarang.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDeleteJabatan.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDeleteKategori.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDeletePegawai.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDeleteSupplier.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormLogin.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahBarang.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahkategori.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahNotaBeli.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahNotaJual.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahPegawai.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormTambahSupplier.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormUbahBarang.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormUbahKategori.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormUbahPegawai.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormUbahSupplier.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormMenu.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.csproj.CopyComplete
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.exe
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.pdb
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\Store.exe.config
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\Store.exe
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\Store.pdb
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\JualBeli_LIB.dll
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\MySql.Data.dll
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarBarang.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarKategoriBarang.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarNotaBeli.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarNotaJual.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarPegawai.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.DaftarSupplier.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormDeleteBarang.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormDeleteJabatan.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormDeleteKategori.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormDeletePegawai.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormDeleteSupplier.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormLogin.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahBarang.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahkategori.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahNotaBeli.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahNotaJual.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahPegawai.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormTambahSupplier.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormUbahBarang.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormUbahKategori.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormUbahPegawai.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormUbahSupplier.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.FormMenu.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.csproj.CopyComplete
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.exe
+C:\Users\Gusti Bagus\Desktop\jualbeli\caca\Store\Store\obj\Debug\Store.pdb
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormDetailPembelian.resources
+E:\KULIAH\Semester 8\Store\Store\obj\Debug\Store.FormStokTerendah.resources
+E:\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+E:\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.exe
+E:\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.pdb
+E:\Perkuliahan\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+E:\Perkuliahan\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+E:\Perkuliahan\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.exe
+E:\Perkuliahan\KP\KP TERAKHIR\Program\Store\Store\obj\Debug\Store.pdb

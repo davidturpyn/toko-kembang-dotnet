@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2018-08-27T11:23:22" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="ProjectPath = ..\DiagramModelingLib\DiagramModelingLib.csproj" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-08-27T11:23:23" Importance="Medium" Text="DiagramModeling's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'DiagramModeling::Kategori' -  (Class), 'DiagramModeling::Barang' -  (Class), 'DiagramModeling::NotaBeliDetil' -  (Class), 'DiagramModeling::Supplier' -  (Class), 'DiagramModeling::Jabatan' -  (Class), 'DiagramModeling::NotaJualDetil' -  (Class), 'DiagramModeling::NotaBeli' -  (Class), 'DiagramModeling::Pelanggan' -  (Class), 'DiagramModeling::NotaJual' -  (Class), 'DiagramModeling::Pegawai' -  (Class) " />
+  <Message Timestamp="2018-08-27T11:23:33" Importance="Medium" Text="Project Added: E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\DiagramModelingLib.csproj" />
+  <Message Timestamp="2018-08-27T11:23:33" Importance="Medium" Text="'DiagramModeling::Kategori' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Kategori.cs" />
+  <Message Timestamp="2018-08-27T11:23:33" Importance="Medium" Text="'DiagramModeling::Barang' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Barang.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::NotaBeliDetil' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\NotaBeliDetil.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::Supplier' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Supplier.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::Jabatan' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Jabatan.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::NotaJualDetil' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\NotaJualDetil.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::NotaBeli' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\NotaBeli.cs" />
+  <Message Timestamp="2018-08-27T11:23:34" Importance="Medium" Text="'DiagramModeling::Pelanggan' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Pelanggan.cs" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Medium" Text="'DiagramModeling::NotaJual' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\NotaJual.cs" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Medium" Text="'DiagramModeling::Pegawai' -  (Class) : success (file created) - E:\Ubaya\Semester 3\Pemrograman Basis Data\Store\DiagramModelingLib\GeneratedCode\Pegawai.cs" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="ProjectPath = ..\DiagramModelingLib\DiagramModelingLib.csproj" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-08-27T11:23:35" Importance="Medium" Text="DiagramModeling's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'DiagramModeling::Kategori' -  (Class), 'DiagramModeling::Barang' -  (Class), 'DiagramModeling::NotaBeliDetil' -  (Class), 'DiagramModeling::Supplier' -  (Class), 'DiagramModeling::Jabatan' -  (Class), 'DiagramModeling::NotaJualDetil' -  (Class), 'DiagramModeling::NotaBeli' -  (Class), 'DiagramModeling::Pelanggan' -  (Class), 'DiagramModeling::NotaJual' -  (Class), 'DiagramModeling::Pegawai' -  (Class) " />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Kategori' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Barang' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::NotaBeliDetil' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Supplier' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Jabatan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::NotaJualDetil' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::NotaBeli' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Pelanggan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::NotaJual' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::Pegawai' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="The selection included 10 elements which were not bound to a template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="Diagnostic" Text="'DiagramModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-27T11:23:36" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
